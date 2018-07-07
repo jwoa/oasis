@@ -1,0 +1,16 @@
+{
+  "name": "OASIS",
+  "version": "1.0.0",
+  "description": "Web application that allows users to get information and statistics about food in their area.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jason Agyekum",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  }
+}
