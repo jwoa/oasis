@@ -10,6 +10,7 @@
   "author": "Jason Agyekum",
   "license": "ISC",
   "dependencies": {
+    "@google/maps": "^0.5.4",
     "express": "^4.16.3",
     "hbs": "^4.0.1"
   }
